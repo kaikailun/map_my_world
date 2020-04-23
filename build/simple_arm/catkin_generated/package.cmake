@@ -10,4 +10,7 @@ set(simple_arm_EXEC_DEPENDS "controller_manager" "effort_controllers" "gazebo_pl
 set(simple_arm_RUN_DEPENDS "controller_manager" "effort_controllers" "gazebo_plugins" "gazebo_ros" "gazebo_ros_control" "joint_state_controller" "joint_state_publisher" "robot_state_publisher" "message_runtime" "xacro")
 set(simple_arm_TEST_DEPENDS )
 set(simple_arm_DOC_DEPENDS )
+set(simple_arm_URL_WEBSITE "")
+set(simple_arm_URL_BUGTRACKER "")
+set(simple_arm_URL_REPOSITORY "")
 set(simple_arm_DEPRECATED "")

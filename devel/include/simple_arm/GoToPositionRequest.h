@@ -44,6 +44,7 @@ struct GoToPositionRequest_
 
 
 
+
   typedef boost::shared_ptr< ::simple_arm::GoToPositionRequest_<ContainerAllocator> > Ptr;
   typedef boost::shared_ptr< ::simple_arm::GoToPositionRequest_<ContainerAllocator> const> ConstPtr;
 

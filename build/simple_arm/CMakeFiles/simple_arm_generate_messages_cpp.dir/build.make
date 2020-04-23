@@ -61,7 +61,7 @@ simple_arm/CMakeFiles/simple_arm_generate_messages_cpp: /home/robond/Desktop/cat
 /home/robond/Desktop/catkin_ws/devel/include/simple_arm/GoToPosition.h: /opt/ros/kinetic/share/gencpp/msg.h.template
 /home/robond/Desktop/catkin_ws/devel/include/simple_arm/GoToPosition.h: /opt/ros/kinetic/share/gencpp/srv.h.template
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/robond/Desktop/catkin_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating C++ code from simple_arm/GoToPosition.srv"
-	cd /home/robond/Desktop/catkin_ws/build/simple_arm && ../catkin_generated/env_cached.sh /usr/bin/python /opt/ros/kinetic/share/gencpp/cmake/../../../lib/gencpp/gen_cpp.py /home/robond/Desktop/catkin_ws/src/simple_arm/srv/GoToPosition.srv -Istd_msgs:/opt/ros/kinetic/share/std_msgs/cmake/../msg -p simple_arm -o /home/robond/Desktop/catkin_ws/devel/include/simple_arm -e /opt/ros/kinetic/share/gencpp/cmake/..
+	cd /home/robond/Desktop/catkin_ws/src/simple_arm && /home/robond/Desktop/catkin_ws/build/catkin_generated/env_cached.sh /usr/bin/python /opt/ros/kinetic/share/gencpp/cmake/../../../lib/gencpp/gen_cpp.py /home/robond/Desktop/catkin_ws/src/simple_arm/srv/GoToPosition.srv -Istd_msgs:/opt/ros/kinetic/share/std_msgs/cmake/../msg -p simple_arm -o /home/robond/Desktop/catkin_ws/devel/include/simple_arm -e /opt/ros/kinetic/share/gencpp/cmake/..
 
 simple_arm_generate_messages_cpp: simple_arm/CMakeFiles/simple_arm_generate_messages_cpp
 simple_arm_generate_messages_cpp: /home/robond/Desktop/catkin_ws/devel/include/simple_arm/GoToPosition.h

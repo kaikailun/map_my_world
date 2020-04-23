@@ -39,6 +39,7 @@ struct GoToPositionResponse_
 
 
 
+
   typedef boost::shared_ptr< ::simple_arm::GoToPositionResponse_<ContainerAllocator> > Ptr;
   typedef boost::shared_ptr< ::simple_arm::GoToPositionResponse_<ContainerAllocator> const> ConstPtr;
 
